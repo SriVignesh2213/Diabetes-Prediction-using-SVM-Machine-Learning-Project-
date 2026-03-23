@@ -22,7 +22,7 @@ This project focuses on predicting whether a person is diabetic or not using Mac
 * NumPy
 * Pandas
 * Scikit-learn
-* Matplotlib (for visualization)
+
 
 ---
 
