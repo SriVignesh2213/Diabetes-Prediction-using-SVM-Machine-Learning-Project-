@@ -32,7 +32,7 @@ This project focuses on predicting whether a person is diabetic or not using Mac
 Diabetes-Prediction/
 │
 ├── diabetes_prediction.ipynb   # Jupyter Notebook (Model Training)
-├── dataset.csv                 # Dataset 
+├── Dataset / diabetes.csv                 # Dataset 
 ├── README.md                   # Project Documentation
 └── .gitignore                  # Ignored files
 ```
